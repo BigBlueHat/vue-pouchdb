@@ -7,7 +7,7 @@
 to your Vue.js apps.
 
 It also (currently) includes
-[pouchdb-authentication](http://github.com/nolanlawsom/pouchdb-authentication)
+[pouchdb-authentication](http://github.com/nolanlawson/pouchdb-authentication)
 because you probably should use that if you're building browser apps. :smiley_cat:
 
 It's a tiny useful bit of code I extraced from [BlueInk](http://github.com/BigBlueHat/BlueInk).
