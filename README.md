@@ -1,7 +1,13 @@
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![Patreon](https://img.shields.io/badge/donate-patreon-orange.svg?style=flat-square)](https://www.patreon.com/BigBlueHat)
+# Actually...
+
+Someone else has more time than me. Checkout [vue-pouch](https://github.com/qurateinc/vue-pouch)!
+
+---
 
 # vue-pouchdb
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
+[![Patreon](https://img.shields.io/badge/donate-patreon-orange.svg?style=flat-square)](https://www.patreon.com/BigBlueHat)
 
 [Vue.js](http://vuejs.com/) plugin that adds [PouchDB](http://pouchdb.com/)
 to your Vue.js apps.
